@@ -15,7 +15,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/thehitchhikersguideto/thegalaxy">
-    <img src="" height=200px >
+    <img src="https://cdn.dribbble.com/userupload/3281428/file/original-601e6a7c04ecb3d58850116b6f727307.png?compress=1&resize=1504x1128" height=200px >
   </a>
 
 <h3 align="center">Repository for some pretty cool projects</h3>
