@@ -15,7 +15,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/thehitchhikersguideto/thegalaxy">
-    <img src="https://drivinginnovation.ie.edu/wp-content/uploads/2023/03/robotics-club-2.png" height=200px >
+    <img src="" height=200px >
   </a>
 
 <h3 align="center">Repository for some pretty cool projects</h3>
