@@ -1,14 +1,5 @@
 
-
-<!-- PROJECT SHIELDS -->
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
+# DON'T PANIC! 
 
 
 <!-- PROJECT LOGO -->
@@ -27,110 +18,18 @@
 
 
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Galaxy</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li><a href="#getting-started">Getting Started</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-
- 
-
-  </ol>
-</details>
-
-
-
 <!-- ABOUT THE CLASS -->
 ## About The Galaxy
 
-0.0
-
-
-
 </div> 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Contribute
 
+If you have an idea for a workshop, project and or just want to joind the club, send us an E-Mail [here](mailto:robotics.club@ie.edu)
 
-### Built With
-<div align="center">
-
-[![Python][Python]][Python-url] 
-[![Jupyter][Jupyter]][Jupyter-url]
-[![SciKit-Learn][SciKit-Learn]][SciKit-Learn-url]
-[![Pandas][Pandas]][Pandas-url]
-
-
-</div> 
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
- 
-
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/thehitchhikersguideto/thegalaxy.git
-   ```
-2. Create a virtual environment and install the requirements
-    ```python
-    python -m venv .venv 
-    pip install -r requirements.txt
-    ```
-3. Make sure you select you select the virtual environment you created as the interpreter in 
-  VS CODE
-  ```sh
-  -> CRTL + SHIFT + P 
-  -> >Python: Select Interpreter
-  -> Add New Interpreter
-  -> Paste this link: .venv/bin/Python3.10
-  ```
-4. See any notebooks which peak your interest
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-
-
-
-<!-- USAGE EXAMPLES -->
-
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See our project board for a list of proposed features (and known issues).
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
- Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 
 
@@ -138,27 +37,32 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 Don't forget to give the project a star! Thanks again!
 
-1. Fork the Project
+1. Fork the Project and create a feature: 
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Feel Free to contact us: 
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vtwop2@gmail.com)
+
+
+
 
 
 
 <!-- MARKDOWN LINKS & IMAGES [![Name][Shield]][url] -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/vtwoptwo/CPPBasics.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/thehitchhikersguideto/thegalaxy.svg?style=for-the-badge
 [contributors-url]: https://github.com/thehitchhikersguideto/thegalaxy/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/vtwoptwo/CPPBasics.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/thehitchhikersguideto/thegalaxy.svg?style=for-the-badge
 [forks-url]: https://github.com/thehitchhikersguideto/thegalaxy/network/members
-[stars-shield]: https://img.shields.io/github/stars/vtwoptwo/CPPBasics.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/thehitchhikersguideto/thegalaxy.svg?style=for-the-badge
 [stars-url]: https://github.com/thehitchhikersguideto/thegalaxy/stargazers
-[issues-shield]: https://img.shields.io/github/issues/vtwoptwo/CPPBasics.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/thehitchhikersguideto/thegalaxy.svg?style=for-the-badge
 [issues-url]: https://github.com/thehitchhikersguideto/thegalaxy/issues
-[license-shield]: https://img.shields.io/github/license/vtwoptwo/CPPBasics.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/thehitchhikersguideto/thegalaxy.svg?style=for-the-badge
 [license-url]: https://github.com/thehitchhikersguideto/thegalaxy/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/vera-prohaska-31734b1b5/
